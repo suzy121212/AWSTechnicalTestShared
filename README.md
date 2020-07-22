@@ -1,5 +1,5 @@
 ﻿# AWSTechnicalTest
-AWSTechnicalTest - README Change
+AWSTechnicalTest - README I am changing this file
 
 This project will perform the following steps as part of the AWS Technical Test:
 1 - Locally creates a parquet file with some data in it
