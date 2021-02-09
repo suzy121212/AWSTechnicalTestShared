@@ -1,9 +1,7 @@
 
+# AWSTechnicalTest
+AWSTechnicalTest - changing demo test 7
 
-AWSTechnicalTest - README I am changing this file again for demo new 
-
-
-AWSTechnicalTest-Branching from a branch
 
 This project will perform the following steps as part of the AWS Technical Test:
 1 - Locally creates a parquet file with some data in it
