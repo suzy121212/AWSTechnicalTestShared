@@ -1,4 +1,4 @@
-﻿Testing Testing 1 2 3 4 5 6 Testing 123456 More commits More commits so ahead Updating again after merge
+﻿Read me
 # AWSTechnicalTest
 AWSTechnicalTest - changing demo test 7
 
