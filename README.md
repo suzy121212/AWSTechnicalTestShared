@@ -1,4 +1,4 @@
-﻿Read me Read me reopen reopen 2
+﻿Read me Read me reopen reopen 2 Updating readme files
 # AWSTechnicalTest
 AWSTechnicalTest - changing demo test 7
 
