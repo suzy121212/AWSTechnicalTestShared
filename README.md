@@ -1,6 +1,6 @@
 ﻿Read me Read me reopen reopen 2 Updating readme files Updating not commit Readme 2 Test 4 Test 5 Updating Readme
 # AWSTechnicalTest
-AWSTechnicalTest - changing demo test 7
+AWSTechnicalTest - changing demo test 15
 
 
 This project will perform the following steps as part of the AWS Technical Test:
